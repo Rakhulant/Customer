@@ -1,0 +1,17 @@
+import 'package:flutter/material.dart';
+
+class Loading extends StatelessWidget {
+  @override
+  Widget build(BuildContext context) {
+    return Container(
+      child: Column(
+        children: [
+          CircularProgressIndicator(
+            backgroundColor: Colors.black,
+          ),
+          Text('Please wait, Loading')
+        ],
+      ),
+    );
+  }
+}

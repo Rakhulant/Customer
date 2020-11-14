@@ -1,0 +1,114 @@
+{
+  "project_info": {
+    "project_number": "835196184001",
+    "firebase_url": "https://localdelivery-e781a.firebaseio.com",
+    "project_id": "localdelivery-e781a",
+    "storage_bucket": "localdelivery-e781a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835196184001:android:a405b6923f44e59050fb40",
+        "android_client_info": {
+          "package_name": "com.example.Customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835196184001-a8rimuf181h3u25hl2b92seidgoinc16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfNLYNSHE0dP_1ZG7t8SgtlxUiaLTFr94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835196184001-a8rimuf181h3u25hl2b92seidgoinc16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835196184001:android:ce8f51036f155ad950fb40",
+        "android_client_info": {
+          "package_name": "com.example.Merchant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835196184001-ss2u1990n0m5kmulsres1828g07jl8ub.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.Merchant",
+            "certificate_hash": "a629e336a10a2f4a123e04c7a20d89700b9264ea"
+          }
+        },
+        {
+          "client_id": "835196184001-a8rimuf181h3u25hl2b92seidgoinc16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfNLYNSHE0dP_1ZG7t8SgtlxUiaLTFr94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835196184001-a8rimuf181h3u25hl2b92seidgoinc16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835196184001:android:7652791ac6c117b050fb40",
+        "android_client_info": {
+          "package_name": "com.example.Mordan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835196184001-ptuq7ga5piqm9uh7uk82r8jhs73g1sf7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.Mordan",
+            "certificate_hash": "a629e336a10a2f4a123e04c7a20d89700b9264ea"
+          }
+        },
+        {
+          "client_id": "835196184001-a8rimuf181h3u25hl2b92seidgoinc16.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfNLYNSHE0dP_1ZG7t8SgtlxUiaLTFr94"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835196184001-a8rimuf181h3u25hl2b92seidgoinc16.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
